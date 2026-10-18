@@ -1,7 +1,7 @@
 <!-- ============================  HEADER  ============================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=210&section=header&text=Hi%2C%20I'm%20Prity%20Shaw%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20%26%20Web3%20Builder&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Prity Shaw banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=210&section=header&text=Prity%20Shaw&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%20and%20Web3%20Builder&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Prity Shaw banner"/>
 
 <a href="https://github.com/Its-prity">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%7C+MERN+%2B+Next.js;Building+AI+assistants+with+Google+Gemini;Shipping+zero-knowledge+dApps+on+Midnight;Turning+ideas+into+products+%F0%9F%9A%80" alt="Typing intro"/>
