@@ -31,7 +31,8 @@ I learn by shipping. Most of my repos are complete builds made for hackathons an
 - 🌐 **Core stack:** MERN, Next.js and TypeScript
 - 🌱 **Sharpening:** Python, Java, SQL and data structures and algorithms
 - 🤝 **Open to:** hackathon teams, open-source contributions and internships
-- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/prityshaw-tech/) · [X](https://x.com/PrityySh) · [Email](mailto:prityshaw2612@gmail.com)
+- 📧 **Gmail:** [prityshaw2612@gmail.com](mailto:prityshaw2612@gmail.com)
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/prityshaw-tech/) · [X](https://x.com/PrityySh) · [Gmail](mailto:prityshaw2612@gmail.com)
 
 ```ts
 const prity = {
@@ -150,6 +151,8 @@ I'm always up for a hackathon, a side project or a good conversation about AI, W
 <a href="https://www.linkedin.com/in/prityshaw-tech/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn"/></a>
 <a href="https://x.com/PrityySh"><img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="mailto:prityshaw2612@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+📧 **[prityshaw2612@gmail.com](mailto:prityshaw2612@gmail.com)**
 
 </div>
 
